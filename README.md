@@ -5,7 +5,7 @@
 ### Below a litle about me
 - I'm software engineering student
 - 🔭 I’m currently working on development of a API Rest about nutritional information of food products
-- 🌱 I’m currently learning JavaScripts and React
+- 🌱 I’m currently learning JavaScripts and working in this project https://github.com/SabinoEduardo/projeto_olisaude
 - 👯 I'm working alone in this project
 - 💬 Ask me about Python and Django Framework
 - 😄 Pronouns: He/His
